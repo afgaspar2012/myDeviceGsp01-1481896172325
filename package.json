@@ -18,6 +18,7 @@
         "node-red-contrib-ramp-thermostat":"0.x",
         "node-red-contrib-play-audio":"2.x",
         "node-red-contrib-browser-utils":"0.x",
+        "node-red-contrib-pid-controller":"0.x",
         "node-red-contrib-ui":"1.2.19",
         "node-red-contrib-aggregator":"1.0.4",
         "node-red-contrib-bluemix-hdfs":"0.x",
